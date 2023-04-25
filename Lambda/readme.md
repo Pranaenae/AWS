@@ -4,7 +4,9 @@
 ### Heading 3
 
 Open Lambda Dashboard. 
-![Select a blueprint] (images/Blueprint.png)
+
+![Select a blueprint](images/Blueprint.png)
+
 *Italic*
 **Bold**
 ***Italic and Bold***
