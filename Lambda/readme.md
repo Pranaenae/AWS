@@ -1,23 +1,44 @@
 
 # First Lambda Program
-## Heading 2
-### Heading 3
 
 Open Lambda Dashboard. 
 
+Click on select blueprint.
+
 ![Select a blueprint](images/Blueprint.PNG)
 
-*Italic*
-**Bold**
-***Italic and Bold***
+Choose the python version of the hello world blueprint and provide a name to the function.
 
+![Python helloworld](images/python_hello.PNG)
 
-> Blockquote
+Assign a basic role to lambda function.
 
-- List item 1
-- List item 2
-- List item 3
+![Assign role to lambda function](images/assignrole.PNG)
 
-1. Numbered item 1
-2. Numbered item 2
-3. Numbered item 3
+Create the function.
+
+**Configure the test event**.
+
+![Configure test](images/configuretest.PNG)
+
+Create new test event helloworld_event and replace "value1" with "hello-world"
+
+![Create new test event](images/createevent.PNG)
+
+Click Test.
+Event tested and hello-world output received from the lambda code.
+
+![Output from test](images/outputfromtest.PNG)
+
+**Viewing the metrics using CloudWatch**
+
+Invoke the function a few more times.
+
+Monitor the results.
+
+![Results using cloudwatch](images/monitor.PNG)
+
+**Deleting the lambda function**
+
+![Deleting the lambda](images/deletelambda.PNG)
+
