@@ -5,7 +5,7 @@
 
 Open Lambda Dashboard. 
 
-![Select a blueprint](images/Blueprint.png)
+![Select a blueprint](images/Blueprint.PNG)
 
 *Italic*
 **Bold**
