@@ -1,6 +1,8 @@
 
 # First Lambda Program
 
+## **1. Create Lambda program.**
+
 Open Lambda Dashboard. 
 
 Click on select blueprint.
@@ -17,7 +19,7 @@ Assign a basic role to lambda function.
 
 Create the function.
 
-**Configure the test event**.
+## **2. Configure the test event**.
 
 ![Configure test](images/configuretest.PNG)
 
@@ -30,7 +32,7 @@ Event tested and hello-world output received from the lambda code.
 
 ![Output from test](images/outputfromtest.PNG)
 
-**Viewing the metrics using CloudWatch**
+## **3. Viewing the metrics using CloudWatch**
 
 Invoke the function a few more times.
 
@@ -38,7 +40,7 @@ Monitor the results.
 
 ![Results using cloudwatch](images/monitor.PNG)
 
-**Deleting the lambda function**
+## **4. Deleting the lambda function**
 
 ![Deleting the lambda](images/deletelambda.PNG)
 
