@@ -16,10 +16,13 @@ Configure the environment.
 
 ![image](https://user-images.githubusercontent.com/80820244/235328086-a03cb2b7-f5f1-48eb-94b8-3726214145c1.png)
 
+Choose the appropriate platform.
+
 ![image](https://user-images.githubusercontent.com/80820244/235328092-82dd975e-e9c0-4c66-84ff-513257eec11a.png)
 
-Set up system access.
+Set up service access.
 
 ![image](https://user-images.githubusercontent.com/80820244/235328096-68f048bf-bd41-4af2-a40b-87418729276c.png)
 
+Skip to review and submit the parameters.
 
