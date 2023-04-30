@@ -1,4 +1,4 @@
 # My mind's a little clouded. :)
 
 
-I don't believe that's a good thing.
+Have a look at my projects while I come with an actual joke.
