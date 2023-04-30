@@ -2,8 +2,8 @@
 
 ## Actions Performed.
  
-1. Create Bucket
-2. Upload photos.
+1. Create S3 Bucket
+2. Upload objects.
 3. Grant public access for reading through ACLs.
 4. Enable bucket versioning.
 
