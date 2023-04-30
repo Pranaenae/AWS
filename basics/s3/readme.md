@@ -1,6 +1,13 @@
 # S3 follow along
 
-## Create Bucket
+## Actions Performed.
+ 
+1. Create Bucket
+2. Upload photos.
+3. Grant public access for reading through ACLs.
+4. Enable bucket versioning.
+
+## 1.Create Bucket
 
 ![image](https://user-images.githubusercontent.com/80820244/235343642-9852d1aa-0781-4196-bdf4-2592caaaaa64.png)
 
@@ -20,7 +27,7 @@ Create the bucket.
 
 ![image](https://user-images.githubusercontent.com/80820244/235343964-88e772d8-f284-47d3-bbae-f54230676af5.png)
 
-## Upload photos.
+## 2.Upload photos.
 
 ![image](https://user-images.githubusercontent.com/80820244/235344055-7cb707a7-1bcd-4144-bf59-ba07ace853a0.png)
 
@@ -34,4 +41,25 @@ Choose photos from computer.
 
 ![image](https://user-images.githubusercontent.com/80820244/235344156-3ebde5e7-35a6-4f1e-9de4-dffcb5383ebd.png)
 
-## Grant public access for reading
+## 3. Grant public access for reading through ACLs.
+
+Allow read from everyone in the ACL settings.
+
+![image](https://user-images.githubusercontent.com/80820244/235344651-4a2cbb41-5384-4794-a973-af3b6893e7e4.png)
+
+Press the object url.
+
+![image](https://user-images.githubusercontent.com/80820244/235344708-c4b798d0-9d32-41f8-aabd-79bf91e4d372.png)
+![image](https://user-images.githubusercontent.com/80820244/235344711-6f403438-afa9-4b2f-928f-317ca60df4dd.png)
+
+## 4. Enable versioning
+
+![image](https://user-images.githubusercontent.com/80820244/235344948-f996c9fb-39b9-4ce9-930d-ed6a03a06662.png)
+
+![image](https://user-images.githubusercontent.com/80820244/235344964-4600d83c-a77b-43b6-9306-e1c36d2e108b.png)
+
+Uploading file with same name to see versions.
+
+![image](https://user-images.githubusercontent.com/80820244/235345017-10d12505-681f-40c8-be1c-8d95cb4c6097.png)
+
+
