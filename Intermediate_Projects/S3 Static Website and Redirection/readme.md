@@ -1,4 +1,12 @@
 ## Hosting a static website in an S3 bucket and adding redirection rules.
+
+## Points to remember for future.
+
+Website redirection only works in static website hosting so:
+
+1. http://hellohello.com.s3-website.ap-south-1.amazonaws.com/docs/index.html this supports website redirection
+2. the object url doesn't ie.  https://s3.ap-south-1.amazonaws.com/hellohello.com/documents/index.html Note the "s3.website" part in the url.
+
 Go to S3 and create a new bucket.
 
 ![image](https://user-images.githubusercontent.com/80820244/235432357-394d8ebb-21e2-48d7-9ea7-0adca5ecdd18.png)
@@ -50,6 +58,13 @@ No docs folder
 ![image](https://user-images.githubusercontent.com/80820244/235438308-691b5c62-3ef9-47ce-af42-e78fa09a2210.png)
 
 Still shows index page.
+
+This link
+![image](https://user-images.githubusercontent.com/80820244/235439449-abd751e1-0aec-448a-98d5-7f6fc81b0d85.png)
+redirects to
+
+![image](https://user-images.githubusercontent.com/80820244/235439405-7c5f27d5-9e54-4d82-85f1-d90054e20417.png)
+
 
 
 
