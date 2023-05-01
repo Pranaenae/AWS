@@ -4,9 +4,6 @@
 
 Create a MySQL database with the following attributes. Write name ebdb and fill in the username and password.
 
-![image](https://user-images.githubusercontent.com/80820244/235176744-b2818ecb-6638-4dfe-8cd7-357f50a8c051.png)
-
-![image](https://user-images.githubusercontent.com/80820244/235177583-6d61043a-ef00-49c8-8b5c-08b989ea1a08.png)
 
 ![image](https://user-images.githubusercontent.com/80820244/235383227-603f6f5a-6273-4cd0-9e24-bca6083ff589.png)
 
@@ -26,3 +23,30 @@ Configure the application details and platform.
 Configure the service access and create the beanstalk application.
 
 ![image](https://user-images.githubusercontent.com/80820244/235384462-0c7d8bc4-50d7-43fd-821f-2c6ac83e42a1.png)
+
+![image](https://user-images.githubusercontent.com/80820244/235384857-ba8d093f-c1e8-4abd-aa12-e53980fefe6c.png)
+
+Change the EC2 security group to the previously assigned sg.
+![image](https://user-images.githubusercontent.com/80820244/235386258-61d036a2-32d2-421e-8a4c-4c6d5313520c.png)
+
+To configure environment properties for an Amazon RDS DB instance
+
+Enable database in the configuration of the environment.
+
+![image](https://user-images.githubusercontent.com/80820244/235386726-313707d4-503c-4679-9cc0-665e69e04a6c.png)
+
+Install wordpress in WSL.
+![image](https://user-images.githubusercontent.com/80820244/235386775-92414315-708d-4a96-bea2-38c86a451ffc.png)
+
+Verify the structure of the wordpress directory
+
+![image](https://user-images.githubusercontent.com/80820244/235386829-5042e760-7b3c-4850-b7b3-712921b57b93.png)
+
+Create a source bundle for the wordpress file.
+
+Go to Elastic Beanstalk Console and select the upload and deploy button. Choose the created bundle and deploy the app.
+
+![image](https://user-images.githubusercontent.com/80820244/235387357-ac1b92d3-9379-45f8-9f01-3e14eae09714.png)
+
+![image](https://user-images.githubusercontent.com/80820244/235387594-f1d5ac5f-472c-47a3-bd2a-330db68afd19.png)
+
