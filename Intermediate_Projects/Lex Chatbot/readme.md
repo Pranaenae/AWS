@@ -37,7 +37,7 @@ Add two slots to request user's account type and pin no.
 Change the role and add Harness
 ![image](https://user-images.githubusercontent.com/80820244/235709860-19dfab6b-5f21-4f78-9ec4-212301059bfd.png)
 
-```
+```javascript
 const AWS = require('aws-sdk');
 
 // Route the incoming request based on intent.
