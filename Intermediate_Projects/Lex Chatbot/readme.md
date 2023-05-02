@@ -26,4 +26,7 @@ Add two slots to request user's account type and pin no.
 
 ![image](https://user-images.githubusercontent.com/80820244/235693285-950c933a-b657-431a-ad0b-a9a344e02721.png)
 
+## Testing the bot
+
+![image](https://user-images.githubusercontent.com/80820244/235694041-a14290a8-7694-498a-bb23-5d9885438d62.png)
 
