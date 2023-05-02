@@ -34,4 +34,30 @@ Enable read access in the Acl.
 
 Create a network Load Balancer.
 
+![image](https://user-images.githubusercontent.com/80820244/235626009-9465c495-2df8-4036-95f4-655d671da8c4.png)
+
+
+Create target groups for the load balancers.
+![image](https://user-images.githubusercontent.com/80820244/235625934-522fd0d1-6b6e-4bc1-ae0f-172e80ccc6d7.png)
+
+
 ![image](https://user-images.githubusercontent.com/80820244/235607805-bd6dc8c1-204a-440a-8d89-7290beb005d2.png)
+
+Select the subnets.
+
+![image](https://user-images.githubusercontent.com/80820244/235626106-0c443d78-99d1-4f82-9a96-cd0a40fc39bf.png)
+
+Setup target.
+
+![image](https://user-images.githubusercontent.com/80820244/235626236-60f2d42b-a20e-47ff-94c1-dd5c7af29d2d.png)
+
+
+Create the load balancers ProjectLB and ProjectReadLB.
+
+![image](https://user-images.githubusercontent.com/80820244/235626326-9cee2ea1-6569-4e43-8c9a-1e755fef8558.png)
+
+Create a cloudfront distribution for the created s3 bucket.
+
+![image](https://user-images.githubusercontent.com/80820244/235627412-334f50a8-5c0e-438f-9334-7667b921d765.png)
+
+
