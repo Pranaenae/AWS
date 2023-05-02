@@ -48,5 +48,5 @@ Go to Elastic Beanstalk Console and select the upload and deploy button. Choose 
 
 ![image](https://user-images.githubusercontent.com/80820244/235387357-ac1b92d3-9379-45f8-9f01-3e14eae09714.png)
 
-![image](https://user-images.githubusercontent.com/80820244/235387594-f1d5ac5f-472c-47a3-bd2a-330db68afd19.png)
+![image](https://user-images.githubusercontent.com/80820244/235720644-180dfa99-29a4-4f9d-a5b7-ef070b57605c.png)
 
