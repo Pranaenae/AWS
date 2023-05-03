@@ -60,3 +60,24 @@ Go the environment and click on the domain.
 
 ![image](https://user-images.githubusercontent.com/80820244/235907838-a51f57b3-2630-41e2-9b5e-d1cb70c10644.png)
 
+## Commit a change and update your app.
+
+Edit the index.html file in the forked repo.
+
+![image](https://user-images.githubusercontent.com/80820244/235908674-0abdd915-a81a-4a09-b286-e6980e2083be.png)
+
+Replace the heading on line 30.
+
+![image](https://user-images.githubusercontent.com/80820244/235908886-a951dbd6-ce34-468d-a754-c1c9ee69721d.png)
+
+Commit the changes.
+
+Deployment in progress..
+
+![image](https://user-images.githubusercontent.com/80820244/235909141-199d2370-74bd-4053-8ec1-08669e864d68.png)
+
+Changes have been made. Let's go boyssss.
+
+![image](https://user-images.githubusercontent.com/80820244/235909685-d9cb0a88-6588-4de8-9758-f578476fc9da.png)
+
+Cleanup the resources.
