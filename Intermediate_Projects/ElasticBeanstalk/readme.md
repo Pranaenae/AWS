@@ -1,4 +1,4 @@
-# Deploying a high-availability WordPress website with an external Amazon RDS database to Elastic Beanstalk
+# Deploying a high-availability WordPress website to Elastic Beanstalk
 
 ![image](https://user-images.githubusercontent.com/80820244/235382899-2d9f4efb-886e-4d0e-84c8-01ee4e5bb5aa.png)
 
