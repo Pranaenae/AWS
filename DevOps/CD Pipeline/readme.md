@@ -42,3 +42,21 @@ Connect to GitHub.
 
 ![image](https://user-images.githubusercontent.com/80820244/235904951-b7c9a33f-3100-4b13-af80-3928482bd2c6.png)
 
+Select the repository name, branch name and the output artifact format.
+
+![image](https://user-images.githubusercontent.com/80820244/235906426-5eb4db39-645d-4045-acb8-008cbd3fcd31.png)
+
+Select the following deployment attributes.
+
+![image](https://user-images.githubusercontent.com/80820244/235906700-702bf332-f2ad-4468-981a-7fa5129c262c.png)
+
+Review and activate your pipeline.
+
+![image](https://user-images.githubusercontent.com/80820244/235907281-92eda0c0-9350-4c69-9aa5-e19a5c35882d.png)
+
+![image](https://user-images.githubusercontent.com/80820244/235907363-adf98c7d-baf4-4c9f-ac53-ef0c2fb7c103.png)
+
+Go the environment and click on the domain.
+
+![image](https://user-images.githubusercontent.com/80820244/235907838-a51f57b3-2630-41e2-9b5e-d1cb70c10644.png)
+
