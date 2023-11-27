@@ -36,4 +36,10 @@ Add the code to index.js.
 
 ![image](https://github.com/Pranaenae/AWS/assets/80820244/f315e6af-4e1e-49b6-a40e-0fc35d34c757)
 
+Create the test event.
+![image](https://github.com/Pranaenae/AWS/assets/80820244/0801e9fd-df9e-4170-b72f-882fa2ba0b68)
+
+Test the function.
+![image](https://github.com/Pranaenae/AWS/assets/80820244/5524f54d-50e7-4769-81cc-413266faca55)
+
 
