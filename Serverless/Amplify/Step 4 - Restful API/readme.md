@@ -5,3 +5,20 @@ Create REST API.
 
 Create the authorizer for the API.
 ![image](https://github.com/Pranaenae/AWS/assets/80820244/2102ed93-0ea5-4b35-8054-8d34950fdc7f)
+
+Create a new method for the /ride.
+![image](https://github.com/Pranaenae/AWS/assets/80820244/0a6da1e9-fff6-4605-a700-fec569e9a263)
+
+Add the authorizer.
+![image](https://github.com/Pranaenae/AWS/assets/80820244/a0c244e7-6b30-452f-91f4-04be8438038b)
+
+Deploy the API with prod stage.
+![image](https://github.com/Pranaenae/AWS/assets/80820244/e893f48b-9e92-4033-b9c8-3561e6ab30c5)
+
+Add the invoke url of the API Gateway to the config.js file.
+![image](https://github.com/Pranaenae/AWS/assets/80820244/3a53ff8c-9682-4392-8dee-8bce4bdf2cd3)
+
+Requesting the unicorn.
+![image](https://github.com/Pranaenae/AWS/assets/80820244/11a9a901-898b-490b-b208-be1c4f19b795)
+
+Step 4 Completed.
