@@ -5,6 +5,7 @@ Information on the created cluster.
 ![image](https://github.com/Pranaenae/AWS/assets/80820244/b93ca8ac-5f76-4948-9253-97d3e6b61896)
 
 ```
+#eks-sample-deployment.yaml
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -47,4 +48,27 @@ Create the namespace.
 
 Create the deployment
 ![image](https://github.com/Pranaenae/AWS/assets/80820244/e35ae3b1-8a37-4c66-abd9-3b16f06ea833)
+
+```
+#eks-sample-service.yaml
+
+apiVersion: v1 
+kind: Service 
+metadata: 
+  name: eks-sample-service-linux
+  namespace: eks-sample-app
+  labels: 
+    app: eks-sample-linux-app
+spec: 
+  selector: 
+    app: eks-sample-linux-app 
+  ports: 
+   - protocol: TCP 
+     port: 80 
+     targetPort: 80
+
+
+![image](https://github.com/Pranaenae/AWS/assets/80820244/b4f35404-e4fd-490e-9a5e-60e383d8b88e)
+
+
 
