@@ -14,3 +14,6 @@ Enabling static website hosting.
 
 The bucket policy for the s3 object.
 ![image](https://github.com/Pranaenae/AWS/assets/80820244/a223e9ed-88c5-4b85-8232-824c394e1f52)
+
+Deployed website
+![image](https://github.com/Pranaenae/AWS/assets/80820244/229095c0-006e-429f-8702-d9fa59398f9b)
