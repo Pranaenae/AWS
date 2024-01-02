@@ -10,3 +10,6 @@ Attach the role in the EKS creation wizard.
 
 Leaving VPC and security group settings the same and setting endpoint access as public endpoint access.
 
+Create the cluster.
+
+![Uploading image.png…]()
