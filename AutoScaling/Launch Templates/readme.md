@@ -32,5 +32,11 @@ Increasing desired capacity.
 Email received for creation of new instance.
 ![image](https://github.com/Pranaenae/AWS/assets/80820244/8c6a18b4-ed44-48a8-8feb-a620362c8226)
 
+Decreasing the desired capacity.
+![image](https://github.com/Pranaenae/AWS/assets/80820244/0eee1085-3766-4eac-a756-bf87d2a2d8fc)
+
+Email for termination.
+![image](https://github.com/Pranaenae/AWS/assets/80820244/7207bf6a-64ee-4ea2-bdf6-8bc13bd6de06)
+
 
 
