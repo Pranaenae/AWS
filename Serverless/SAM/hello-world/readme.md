@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6d9a5d5c-3a7f-474c-a088-d3736ddaa8e8)Deploying IAC and syncing code to Cloudformation.
+**Deploying IAC and syncing code to Cloudformation.**
 
 SAM -> Cloudformation -> Resource Provisioning
 
